@@ -1,1 +1,2 @@
 postgres:15.0
+odoo:18.0
